@@ -1,0 +1,64 @@
+{
+    "logins": {
+        "accountName": "",
+        "password": ""
+    },
+    "botInfo": {
+        "groups": {
+            "103582791434293256": {
+                "name": "/r/pcmasterrace",
+                "options": {
+                    "maxCharLength": 150
+                }
+            },
+           "103582791435566743": {
+                "name": "Bot Testing Facility 1"
+            },
+            "103582791435183804": {
+                "name": "Dungeon Addicts"
+            },
+            "103582791434531682": {
+                "name": "Love Friendship & Kittens"
+            },
+            "103582791438162012": {
+                "name": "Barataria Bay"
+            },
+            "103582791434316081": {
+                "name": "Heart Collectors"
+            },
+            "103582791438589974": {
+                "name": "Night Owl Gaming Club"
+            }
+        },
+        "ignore": {
+            "urls": [
+                "gyazo.com",
+                "127.0.0.1",
+                "localhost",
+                "/wiki/steamchat",
+                "pcmasterrace.net",
+                "gph.is",
+                "humblebundle"
+            ],
+            "people": [
+                "76561198049195587",
+                "76561198042570256",
+                "76561198175757667",
+                "undefined"
+            ],
+            "titles": [
+                "It works!",
+                "Imgur: The most awesome images on the Internet",
+                "Apache2 Ubuntu Default Page: It works",
+                "undefined",
+                "",
+                " "
+            ]
+        },
+        "master": "76561198028103920",
+        "maxRequestSizeMB": 5,
+        "_comments": [
+            " EM92: 103582791437217484 "
+        ]
+    }
+}
